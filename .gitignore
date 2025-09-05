@@ -75,3 +75,5 @@ temp/
 yarn.lock
 package-lock.json
 
+# Note: If package-lock.json is already tracked by git, you must also remove it from the repository with:
+# git rm --cached package-lock.json

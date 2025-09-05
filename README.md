@@ -8,9 +8,9 @@ A production-ready GraphQL API built with Node.js, Express, and Apollo Server.
 - 📚 **Book Management** - CRUD operations for books with advanced filtering
 - 🛡️ **Security** - Helmet, CORS, rate limiting, and input validation
 - 🏗️ **Modular Architecture** - Clean separation of concerns
-- 🐳 **Docker Support** - Containerized deployment
+<!-- - 🐳 **Docker Support** - Containerized deployment -->
 - 📊 **Health Checks** - Production-ready monitoring
-- 🚀 **Production Ready** - Optimized for production deployment
+<!-- - 🚀 **Production Ready** - Optimized for production deployment -->
 
 ## Quick Start
 
