@@ -4,6 +4,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+
 # Environment variables
 .env
 .env.local
@@ -69,3 +70,8 @@ Thumbs.db
 # Temporary files
 tmp/
 temp/
+
+# Lock files
+yarn.lock
+package-lock.json
+

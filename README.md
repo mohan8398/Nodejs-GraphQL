@@ -39,7 +39,7 @@ A production-ready GraphQL API built with Node.js, Express, and Apollo Server.
 
 ### Production Deployment
 
-#### Option 1: Docker Compose (Recommended)
+<!-- #### Option 1: Docker Compose (Recommended)
 
 1. **Setup environment**
    ```bash
@@ -69,7 +69,7 @@ A production-ready GraphQL API built with Node.js, Express, and Apollo Server.
 
 ```bash
 ./scripts/deploy.sh
-```
+``` -->
 
 ## API Documentation
 
@@ -200,7 +200,7 @@ src/
 └── server.js            # Server entry point
 ```
 
-## Docker Commands
+<!-- ## Docker Commands
 
 ```bash
 # Build image
@@ -217,7 +217,7 @@ npm run docker:logs
 
 # Stop containers
 npm run docker:down
-```
+``` -->
 
 ## Health Checks
 
@@ -250,6 +250,3 @@ The application includes built-in health checks and monitoring endpoints:
 4. Add tests if applicable
 5. Submit a pull request
 
-## License
-
-ISC License
